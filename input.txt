@@ -1,0 +1,6 @@
+If the program has ran without the -s argument then it should show and error:
+
+No shift is provided
+If the arguments are missing after the flags it should return an error.
+
+If the program has ran without the -o argument then it should print the decrypted content to the standard out.
